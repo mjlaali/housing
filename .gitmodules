@@ -1,0 +1,6 @@
+[submodule "housing_model"]
+	path = housing_model
+	url = https://github.com/mjlaali/housing_model
+[submodule "housing_data_generator"]
+	path = housing_data_generator
+	url = git@bitbucket.org:mjlaali/housing_data_generator.git

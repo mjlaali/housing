@@ -1,0 +1,2 @@
+-r housing_data_generator/requirements.txt
+-r housing_model/requirements.txt
