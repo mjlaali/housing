@@ -4,3 +4,6 @@
 [submodule "housing_data_generator"]
 	path = housing_data_generator
 	url = git@bitbucket.org:mjlaali/housing_data_generator.git
+[submodule "housing_data"]
+	path = housing_data
+	url = git@bitbucket.org:mjlaali/housing_data.git
